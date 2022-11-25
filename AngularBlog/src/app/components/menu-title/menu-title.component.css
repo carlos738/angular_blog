@@ -1,7 +1,7 @@
-.menu__title__container{
+.container__menu-title{
   color:rgba(20, 206, 35, 0.801) ;
 }
-.menu__title__container > h1{
+.container__menu-title > h1{
   margin: 10px;
   margin-bottom: 10px;
   font-size: 66px;
@@ -11,7 +11,7 @@
   justify-content: center ;
 
 }
-.menu__title__container > hr{
-  margin-top: 5px;
+.container__menu-title > hr{
+  margin-top: 20px;
   margin-bottom: 5px;
 }
